@@ -12,7 +12,7 @@ I just hate to wait at the bus station. Why not add what you have learned in cla
 
 ## Installation
 ```sh
-python m venv bus
+python -m venv bus
 pip install -r requirements.txt
 ```
 
